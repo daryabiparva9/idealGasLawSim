@@ -1,5 +1,3 @@
-
-
 %matplotlib ipympl
 import numpy as np
 import math
